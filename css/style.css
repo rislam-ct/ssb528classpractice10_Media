@@ -1,0 +1,12 @@
+.box {min-height: 100px;
+	background-color: darkred;
+}
+
+.layout {
+	float: left;
+	width: 50%;
+	height: 100px;
+	background-color: lightcoral;
+	margin-bottom: 1px;
+	border: 1px solid white;
+}
